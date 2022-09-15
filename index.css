@@ -1,0 +1,77 @@
+h1 {
+    color: black;
+    border: 100px;
+    text-align: center;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5%;
+    line-height: 80px;
+}
+
+#christina {
+    margin-top: 50px;
+    margin-left: 0px;
+    margin-right: 100px;
+    width: 100%;
+    display: inline-block;
+}
+
+#ariana {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: inline-block;
+}
+
+html {
+    background-color: lavenderblush;
+    padding-left: 100px;
+}
+
+.email {
+    margin-bottom: 100px;
+    font-size: 30px;
+    display: block;
+    color: lavender;
+    background-color: black;
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 40%;
+    border-radius: 50%;
+    transition-duration: 2s;
+}
+
+.email:hover {
+    background-color: purple;
+    color: lavenderblush;
+}
+
+.email:active {
+    color: violet;
+    font-size: 80px;
+    
+}
+
+.intro {
+    color: gray;
+    border: solid;
+    border-width: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+span {
+    color: blueviolet;
+    
+}
+
+.p1 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.p2 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
